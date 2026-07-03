@@ -9,7 +9,7 @@ An end-to-end healthcare analytics project that transforms raw healthcare data i
 > **Dashboard Preview**
 
 <p align="center">
-  <img src="dashboard/dashboard.png" width="900">
+  <img src="Dashboard/dashboard.png" width="900">
 </p>
 
 ---
