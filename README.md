@@ -78,6 +78,6 @@ Healthcare_analytics
 ├── data/                  # Raw and cleaned datasets
 ├── notebooks/             # Data cleaning & feature engineering
 ├── sql/                   # Business SQL queries
-├── dashboard/             # Power BI dashboard (.pbix)
+├── dashboard/             # Power BI dashboard 
 └── README.md
 ```
